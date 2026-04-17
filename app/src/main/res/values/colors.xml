@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_background">#EEF0F6</color>
+    <color name="icon_gradient_start">#FF2156</color>
+    <color name="icon_gradient_end">#8A3FFC</color>
+    <color name="mod_store_neon_cyan">#00E5FF</color>
+    <color name="mod_store_neon_pink">#FF00BD</color>
+</resources>

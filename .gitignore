@@ -1,0 +1,33 @@
+# Android Standard Ignores
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/build
+/app/.cxx
+
+# Gradle Build Folders
+build/
+*/build/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local configuration
+local.properties
+gradle.properties
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
